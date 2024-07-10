@@ -1,0 +1,2003 @@
+{
+  "portfolio": {
+    "en": "Portfolio",
+    "nl": "Portfolio"
+  },
+  "default": {
+    "en": "Default",
+    "nl": "Standaard"
+  },
+  "locations": {
+    "en": "Locations",
+    "nl": "Locaties"
+  },
+  "reports": {
+    "en": "Reports",
+    "nl": "Rapporten"
+  },
+  "van Dorp Report": {
+    "en": "Van Dorp Report",
+    "nl": "Van Dorp rapport"
+  },
+  "configuration": {
+    "en": "Configuration",
+    "nl": "Beheer"
+  },
+  "organisations": {
+    "en": "Organisations",
+    "nl": "Organisaties"
+  },
+  "connections": {
+    "en": "Connections",
+    "nl": "Aansluitingen"
+  },
+  "connections list": {
+    "en": "Connections",
+    "nl": "Aansluitlijst"
+  },
+  "authorisations": {
+    "en": "Authorisations",
+    "nl": "Autorisaties"
+  },
+  "save changes": {
+    "en": "Save changes",
+    "nl": "Wijzigingen opslaan"
+  },
+  "logo": {
+    "en": "Logo",
+    "nl": "Logo"
+  },
+  "portfolio icon": {
+    "en": "Portfolio icon",
+    "nl": "Portfolio icoon"
+  },
+  "flowmaps": {
+    "en": "Flowmaps",
+    "nl": "Flowmaps"
+  },
+  "toggle navigation": {
+    "en": "Toggle navigation",
+    "nl": "Toggle navigation"
+  },
+  "profile": {
+    "en": "Profile",
+    "nl": "Profiel"
+  },
+  "encrypt": {
+    "en": "Encrypt",
+    "nl": "Versleutelen"
+  },
+  "logout": {
+    "en": "Logout",
+    "nl": "Uitloggen"
+  },
+  "search": {
+    "en": "Search",
+    "nl": "Zoek"
+  },
+  "overview": {
+    "en": "Overview",
+    "nl": "Overzicht"
+  },
+  "add organisation": {
+    "en": "Add organisation",
+    "nl": "Organisatie toevoegen"
+  },
+  "connection information": {
+    "en": "Connection details",
+    "nl": "Aansluitingsdetails"
+  },
+  "please enter a location": {
+    "en": "Please enter a location",
+    "nl": "Voer een locatie in"
+  },
+  "electricity": {
+    "en": "Electricity",
+    "nl": "Elektriciteit"
+  },
+  "gas": {
+    "en": "Gas",
+    "nl": "Gas"
+  },
+  "heat": {
+    "en": "Heat",
+    "nl": "Warmte"
+  },
+  "water": {
+    "en": "Water",
+    "nl": "Water"
+  },
+  "code": {
+    "en": "Code",
+    "nl": "EAN"
+  },
+  "please enter a code": {
+    "en": "Please enter a code",
+    "nl": "Voer een EAN in"
+  },
+  "meter number": {
+    "en": "Meter number",
+    "nl": "Meternummer"
+  },
+  "customer id": {
+    "en": "Customer id",
+    "nl": "Klantnummer"
+  },
+  "meter numbers": {
+    "en": "Meter numbers",
+    "nl": "Meternummers"
+  },
+  "please enter a meter numbers": {
+    "en": "Please enter a meter numbers",
+    "nl": "Voer een meternummer in"
+  },
+  "label": {
+    "en": "Label",
+    "nl": "Label"
+  },
+  "please enter a label": {
+    "en": "Please enter a label",
+    "nl": "Voer een label in"
+  },
+  "market segment": {
+    "en": "Market segment",
+    "nl": "Marktsegment"
+  },
+  "kv": {
+    "en": "KV",
+    "nl": "KV"
+  },
+  "gv": {
+    "en": "GV",
+    "nl": "GV"
+  },
+  "please enter a market segment": {
+    "en": "Please enter a market segment",
+    "nl": "Voer een marktsegment in"
+  },
+  "supplier": {
+    "en": "Supplier",
+    "nl": "Leverancier"
+  },
+  "please enter a supplier": {
+    "en": "Please enter a supplier",
+    "nl": "Voer een leverancier in"
+  },
+  "operator": {
+    "en": "Operator",
+    "nl": "Netbeheerder"
+  },
+  "please enter an operator": {
+    "en": "Please enter an operator",
+    "nl": "Voer een netbeheerder in"
+  },
+  "supplier contract": {
+    "en": "Supplier contract",
+    "nl": "Contract"
+  },
+  "please enter a supplier contract": {
+    "en": "Please enter a supplier contract",
+    "nl": "Voer een contract in"
+  },
+  "data source": {
+    "en": "Data source",
+    "nl": "Databron"
+  },
+  "please enter a data source": {
+    "en": "Please enter a data source",
+    "nl": "Voer een databron in"
+  },
+  "search for a location": {
+    "en": "Search a location",
+    "nl": "Zoek een locatie"
+  },
+  "select an organisation": {
+    "en": "Select an organisation",
+    "nl": "Kies een organisatie"
+  },
+  "authorisation for": {
+    "en": "Authorisation for",
+    "nl": "Machtiging voor"
+  },
+  "dashboard": {
+    "en": "Dashboard",
+    "nl": "Dashboard"
+  },
+  "save dashboard": {
+    "en": "Save dashboard",
+    "nl": "Dashboard opslaan"
+  },
+  "electricity consumption": {
+    "en": "Electricity consumption",
+    "nl": "Elektriciteitsverbruik"
+  },
+  "electricity consumption off-peak": {
+    "en": "Electricity consumption off-peak",
+    "nl": "Elektriciteitsverbruik daluren"
+  },
+  "electricity production": {
+    "en": "Electricity production",
+    "nl": "Elektriciteitsproductie"
+  },
+  "electricity production off-peak": {
+    "en": "Electricity production off-peak",
+    "nl": "Elektriciteitsproductie daluren"
+  },
+  "electricity reactive consumption": {
+    "en": "Electricity reactive consumption",
+    "nl": "Blindverbruik"
+  },
+  "electricity reactive consumption off-peak": {
+    "en": "Electricity reactive consumption off-peak",
+    "nl": "Blindverbruik daluren"
+  },
+  "electricity reactive production": {
+    "en": "Electricity reactive production",
+    "nl": "Blindverbruik teruglevering"
+  },
+  "electricity reactive production off-peak": {
+    "en": "Electricity reactive production off-peak",
+    "nl": "Blindverbruik teruglevering daluren"
+  },
+  "electricity feed-in": {
+    "en": "Electricity feed-in",
+    "nl": "Teruglevering"
+  },
+  "electricity feed-in off-peak": {
+    "en": "Electricity feed-in off-peak",
+    "nl": "Teruglevering daluren"
+  },
+  "location ranking": {
+    "en": "Location ranking",
+    "nl": "Locatierangschikking"
+  },
+  "meter ranking": {
+    "en": "Meter ranking",
+    "nl": "Meter rangschikking"
+  },
+  "costs": {
+    "en": "Costs",
+    "nl": "Kosten"
+  },
+  "gas consumption": {
+    "en": "Gas consumption",
+    "nl": "Gasverbruik"
+  },
+  "gas consumption uncorrected": {
+    "en": "Gas consumption uncorrected",
+    "nl": "Ongecorrigeerd gasverbruik"
+  },
+  "water consumption": {
+    "en": "Water consumption",
+    "nl": "Waterverbruik"
+  },
+  "water intermediate consumption": {
+    "en": "Water sub-meter consumption",
+    "nl": "Tussenmeterverbruik"
+  },
+  "gas and heat consumption": {
+    "en": "Gas and heat consumption",
+    "nl": "Gas- en warmteverbruik"
+  },
+  "heat consumption": {
+    "en": "Heat consumption",
+    "nl": "Warmteverbruik"
+  },
+  "energy compass": {
+    "en": "Energy compass",
+    "nl": "Energiekompas"
+  },
+  "filter...": {
+    "en": "Filter",
+    "nl": "Filter"
+  },
+  "electricity production icon": {
+    "en": "Electricity production icon",
+    "nl": "Elektriciteitsproductie icoon"
+  },
+  "electricity feed-in icon": {
+    "en": "Electricity feed-in icon",
+    "nl": "Teruglevering icoon"
+  },
+  "zoom in": {
+    "en": "Zoom in",
+    "nl": "Inzoomen"
+  },
+  "zoom out": {
+    "en": "Zoom out",
+    "nl": "Uitzoomen"
+  },
+  "customize": {
+    "en": "Customize",
+    "nl": "Configureren"
+  },
+  "this month": {
+    "en": "This month",
+    "nl": "Deze maand"
+  },
+  "previous month": {
+    "en": "Previous month",
+    "nl": "Vorige maand"
+  },
+  "this year": {
+    "en": "This year",
+    "nl": "Dit jaar"
+  },
+  "previous year": {
+    "en": "Previous year",
+    "nl": "Vorig jaar"
+  },
+  "last 12 months": {
+    "en": "Last 12 months",
+    "nl": "Laatste 12 maanden"
+  },
+  "last week": {
+    "en": "Last week",
+    "nl": "Vorige week"
+  },
+  "custom range": {
+    "en": "Custom range",
+    "nl": "Aangepast bereik"
+  },
+  "measurement": {
+    "en": "Measurement",
+    "nl": "Meting"
+  },
+  "electricity reactive": {
+    "en": "Electricity reactive",
+    "nl": "Blindverbruik"
+  },
+  "electricity costs": {
+    "en": "Electricity costs",
+    "nl": "Elektriciteitskosten"
+  },
+  "gas costs": {
+    "en": "Gas costs",
+    "nl": "Gaskosten"
+  },
+  "water costs": {
+    "en": "Water costs",
+    "nl": "Waterkosten"
+  },
+  "heat costs": {
+    "en": "Heat costs",
+    "nl": "Warmtekosten"
+  },
+  "co² from electricity": {
+    "en": "CO² from electricity",
+    "nl": "CO² vanuit elektriciteit"
+  },
+  "co² from gas": {
+    "en": "CO² from gas",
+    "nl": "CO² vanuit gas"
+  },
+  "co² from water": {
+    "en": "CO² from water",
+    "nl": "CO² vanuit water"
+  },
+  "co² from heat": {
+    "en": "CO² from heat",
+    "nl": "CO² vanuit warmte"
+  },
+  "a JavaScript library for interactive maps": {
+    "en": "A JavaScript library for interactive maps",
+    "nl": "Een JavaScript-bibliotheek voor interactieve kaarten"
+  },
+  "split off-peak": {
+    "en": "Peak and off-peak consumption",
+    "nl": "Piek- en dalverbruik"
+  },
+  "netted consumption": {
+    "en": "Netted consumption",
+    "nl": "Gesaldeerd verbruik"
+  },
+  "show reactive": {
+    "en": "Reactive consumption",
+    "nl": "Blindverbruik"
+  },
+  "compare with": {
+    "en": "Compare with",
+    "nl": "Vergelijken met"
+  },
+  "last year": {
+    "en": "Last year",
+    "nl": "Afgelopen jaar"
+  },
+  "maximum power": {
+    "en": "Peak power",
+    "nl": "Piekvermogen"
+  },
+  "weather": {
+    "en": "Weather",
+    "nl": "Weer"
+  },
+  "temperature": {
+    "en": "Temperature",
+    "nl": "Temperatuur"
+  },
+  "sun hours": {
+    "en": "Sun hours",
+    "nl": "Zonuren"
+  },
+  "wind speed": {
+    "en": "Wind speed",
+    "nl": "Windsnelheid"
+  },
+  "rainfall": {
+    "en": "Rainfall",
+    "nl": "Neerslag"
+  },
+  "solar radiation": {
+    "en": "Solar radiation",
+    "nl": "Zonkracht"
+  },
+  "maximum power can only be shown per EAN": {
+    "en": "Peak power can only be shown per EAN",
+    "nl": "Piekvermogen kan enkel per aansluiting worden getoond"
+  },
+  "no electricity connections found within selection": {
+    "en": "No electricity connections found within selection",
+    "nl": "Geen electriciteitsaansluitingen gevonden binnen de selectie"
+  },
+  "energy labels": {
+    "en": "Energy labels",
+    "nl": "Energielabels"
+  },
+  "show unknown": {
+    "en": "Show unknown",
+    "nl": "Toon onbekend"
+  },
+  "building": {
+    "en": "Building",
+    "nl": "Gebouw"
+  },
+  "building types": {
+    "en": "Building types",
+    "nl": "Gebouwtypes"
+  },
+  "energy label": {
+    "en": "Energy label",
+    "nl": "Energielabel"
+  },
+  "valid until": {
+    "en": "Valid until",
+    "nl": "Geldig tot"
+  },
+  "area": {
+    "en": "Area",
+    "nl": "Oppervlakte"
+  },
+  "building type": {
+    "en": "Building type",
+    "nl": "Gebouwtype"
+  },
+  "electricity meter": {
+    "en": "Electricity meter",
+    "nl": "Elektriciteitsmeter"
+  },
+  "gas/heat meter": {
+    "en": "Gas/Heat meter",
+    "nl": "Gas-/warmtemeter"
+  },
+  "sub meters": {
+    "en": "Sub-meters",
+    "nl": "Tussenmeters"
+  },
+  "water meters": {
+    "en": "Water meters",
+    "nl": "Watermeters"
+  },
+  "select a location": {
+    "en": "Search for a location",
+    "nl": "Zoek een locatie"
+  },
+  "no location selected": {
+    "en": "No location selected",
+    "nl": "Geen locatie geselecteerd"
+  },
+  "renewable fuel units": {
+    "en": "Renewable fuel units",
+    "nl": "Hernieuwbare Brandstof Eenheden (HBE's)"
+  },
+  "sub meter icon": {
+    "en": "Sub-meter icon",
+    "nl": "Tussenmeter icoon"
+  },
+  "electricity intermediate consumption": {
+    "en": "Electricity sub-meter consumption",
+    "nl": "Tussenmeterverbruik"
+  },
+  "electricity gross production": {
+    "en": "Electricity gross production",
+    "nl": "Bruto productie"
+  },
+  "electricity reactive gross production": {
+    "en": "Electricity reactive gross production",
+    "nl": "Blindverbruik bruto productie"
+  },
+  "gross_production": {
+    "en": "Gross production",
+    "nl": "Bruto productie"
+  },
+  "gross production": {
+    "en": "Gross production",
+    "nl": "Bruto productie"
+  },
+  "split by sub meters": {
+    "en": "Sub-meters",
+    "nl": "Tussenmeters"
+  },
+  "show consumption": {
+    "en": "Show consumption",
+    "nl": "Verbruiken"
+  },
+  "show feed-in": {
+    "en": "Feed-in",
+    "nl": "Teruglevering"
+  },
+  "show production": {
+    "en": "Production",
+    "nl": "Productie"
+  },
+  "electrical power data is unavailable for this connection": {
+    "en": "Electrical power data is unavailable for this connection",
+    "nl": "Piekvermogendata ontbreekt bij deze aansluiting."
+  },
+  "contracted power is unknown for this connection": {
+    "en": "Contracted power is unknown for this connection",
+    "nl": "Gecontracteerd vermogen ontbreekt bij deze aansluiting."
+  },
+  "per m": {
+    "en": "per m",
+    "nl": "per m"
+  },
+  "per year": {
+    "en": "per year",
+    "nl": "per jaar"
+  },
+  "modify": {
+    "en": "Modify",
+    "nl": "Bewerken"
+  },
+  "account": {
+    "en": "Account",
+    "nl": "Account"
+  },
+  "general": {
+    "en": "General",
+    "nl": "Algemeen"
+  },
+  "security": {
+    "en": "Security",
+    "nl": "Beveiliging"
+  },
+  "first name": {
+    "en": "First name",
+    "nl": "Voornaam"
+  },
+  "last name": {
+    "en": "Last name",
+    "nl": "Achternaam"
+  },
+  "email": {
+    "en": "Email",
+    "nl": "E-mail"
+  },
+  "phone": {
+    "en": "Phone",
+    "nl": "Telefoonnummer"
+  },
+  "delete your account": {
+    "en": "Delete your account",
+    "nl": "Account verwijderen"
+  },
+  "please note, deleting your account is a permanent action and will not be recoverable once completed.": {
+    "en": "Please note, deleting your account is a permanent action and will not be recoverable once completed.",
+    "nl": "Houd er rekening mee dat het verwijderen van uw account een permanente actie is en niet kan worden hersteld als het eenmaal is voltooid."
+  },
+  "delete account": {
+    "en": "Delete account",
+    "nl": "Account verwijderen"
+  },
+  "please enter a first name": {
+    "en": "Please enter a first name",
+    "nl": "Voer een voornaam in"
+  },
+  "please enter a last name": {
+    "en": "Please enter a last name",
+    "nl": "Voer een achternaam in"
+  },
+  "please enter a phone": {
+    "en": "Please enter a phone",
+    "nl": "Voer een telefoonnummer in"
+  },
+  "remove item": {
+    "en": "Delete item",
+    "nl": "Item verwijderen"
+  },
+  "are you sure you want to remove this item?": {
+    "en": "Are you sure you want to delete this item?",
+    "nl": "Weet u zeker dat u dit item wilt verwijderen?"
+  },
+  "remove connection": {
+    "en": "Delete connection",
+    "nl": "Aansluiting verwijderen"
+  },
+  "are you sure you want to remove this connection?": {
+    "en": "Are you sure you want to delete this connection?",
+    "nl": "Weet u zeker dat u deze aansluiting wilt verwijderen?"
+  },
+  "remove location": {
+    "en": "Delete location",
+    "nl": "Locatie verwijderen"
+  },
+  "are you sure you want to remove this location?": {
+    "en": "Are you sure you want to delete this location?",
+    "nl": "Weet u zeker dat u deze locatie wilt verwijderen?"
+  },
+  "delete user": {
+    "en": "Delete user",
+    "nl": "Gebruiker verwijderen"
+  },
+  "are you sure you want to delete this user?": {
+    "en": "Are you sure you want to delete this user?",
+    "nl": "Weet u zeker dat u deze gebruiker wilt verwijderen?"
+  },
+  "delete organisation": {
+    "en": "Delete organisation",
+    "nl": "Organisatie verwijderen"
+  },
+  "are you sure you want to delete this organisation?": {
+    "en": "Are you sure you want to delete this organisation?",
+    "nl": "Weet u zeker dat u deze organisatie wilt verwijderen?"
+  },
+  "delete account?": {
+    "en": "Delete account?",
+    "nl": "Account verwijderen?"
+  },
+  "are you sure you want to delete your user account? Deleting your account is permanent and will not be recoverable once completed.": {
+    "en": "Are you sure you want to delete your user account? Deleting your account is permanent and will not be recoverable once completed.",
+    "nl": "Weet u zeker dat u uw gebruikersaccount wil verwijderen? Het verwijderen van uw account is permanent en kan niet worden hersteld als het eenmaal is voltooid."
+  },
+  "confirm": {
+    "en": "Confirm",
+    "nl": "Bevestigen"
+  },
+  "change your password": {
+    "en": "Change your password",
+    "nl": "Wachtwoord wijzigigen"
+  },
+  "we will email you a confirmation when changing your password, so please expect that email after submitting.": {
+    "en": "You will receive a confirmation email after saving your new password.",
+    "nl": "U ontvangt een e-mail na het opslaan van uw nieuwe wachtwoord."
+  },
+  "forgot your password?": {
+    "en": "Forgot your password?",
+    "nl": "Wachtwoord vergeten?"
+  },
+  "password requirements": {
+    "en": "Password requirements",
+    "nl": "Wachtwoordvereisten"
+  },
+  "please ensure that your password is at least 8 characters long": {
+    "en": "Your password must contain at least 8 characters",
+    "nl": "Zorg ervoor dat uw wachtwoord minstens 8 tekens bevat"
+  },
+  "current password": {
+    "en": "Current password",
+    "nl": "Huidige wachtwoord"
+  },
+  "update password": {
+    "en": "Save password",
+    "nl": "Wachtwoord opslaan"
+  },
+  "new password": {
+    "en": "New password",
+    "nl": "Nieuw wachtwoord"
+  },
+  "(optional)": {
+    "en": "(optional)",
+    "nl": "(optioneel)"
+  },
+  "chamber of commerce number": {
+    "en": "Chamber of commerce number",
+    "nl": "KVK-nummer"
+  },
+  "dd-mm-yyyy": {
+    "en": "dd-mm-yyyy",
+    "nl": "dd-mm-jjjj"
+  },
+  "intermediary": {
+    "en": "Intermediary",
+    "nl": "Intermediair"
+  },
+  "owner": {
+    "en": "Owner",
+    "nl": "Hoofdbeheerder"
+  },
+  "manager": {
+    "en": "Manager",
+    "nl": "Beheerder"
+  },
+  "viewer": {
+    "en": "Viewer",
+    "nl": "Bekijker"
+  },
+  "name": {
+    "en": "Name",
+    "nl": "Naam"
+  },
+  "revoke": {
+    "en": "Revoke",
+    "nl": "Intrekken"
+  },
+  "revoked": {
+    "en": "Revoked",
+    "nl": "Ingetrokken"
+  },
+  "active": {
+    "en": "Active",
+    "nl": "Actief"
+  },
+  "add location": {
+    "en": "Add location",
+    "nl": "Locatie toevoegen"
+  },
+  "organisation": {
+    "en": "Organisation",
+    "nl": "Organisatie"
+  },
+  "details": {
+    "en": "Details",
+    "nl": "Details"
+  },
+  "add authorisation": {
+    "en": "Add authorisation",
+    "nl": "Autorisatie toevoegen"
+  },
+  "download": {
+    "en": "Download",
+    "nl": "Downloaden"
+  },
+  "upload": {
+    "en": "Upload",
+    "nl": "Uploaden"
+  },
+  "language": {
+    "en": "Language",
+    "nl": "Taal"
+  },
+  "dutch": {
+    "en": "Dutch",
+    "nl": "Nederlands"
+  },
+  "english": {
+    "en": "English",
+    "nl": "Engels"
+  },
+  "add connection": {
+    "en": "Add connection",
+    "nl": "Aansluiting toevoegen"
+  },
+  "sign in": {
+    "en": "Sign in",
+    "nl": "Log in"
+  },
+  "for access to your dashboard.": {
+    "en": "For access to your dashboard.",
+    "nl": "Voor toegang tot uw dashboard."
+  },
+  "email address": {
+    "en": "Email address",
+    "nl": "E-mailadres"
+  },
+  "forgot password?": {
+    "en": "Forgot password?",
+    "nl": "Wachtwoord vergeten?"
+  },
+  "enter your password": {
+    "en": "Enter your password",
+    "nl": "Voer uw wachtwoord in"
+  },
+  "please enter an email address": {
+    "en": "Please enter an email address",
+    "nl": "Voer een e-mailadres in"
+  },
+  "please enter a password": {
+    "en": "Please enter a password",
+    "nl": "Voer een wachtwoord in"
+  },
+  "password": {
+    "en": "Password",
+    "nl": "Wachtwoord"
+  },
+  "sign up": {
+    "en": "Sign up",
+    "nl": "Registreren"
+  },
+  "don't have an account yet?": {
+    "en": "Don't have an account yet?",
+    "nl": "Nog geen account?"
+  },
+  "already have an account?": {
+    "en": "Already have an account?",
+    "nl": "Heeft u al een account?"
+  },
+  "reset password": {
+    "en": "Reset password",
+    "nl": "Reset wachtwoord"
+  },
+  "please check your inbox at the e-mail address you provided for a confirmation code to reset your password.": {
+    "en": "Please check your inbox at the e-mail address you provided for the confirmation code to reset your password.",
+    "nl": "Controleer uw inbox op het door u opgegeven e-mailadres voor de bevestigingscode om uw wachtwoord opnieuw in te stellen."
+  },
+  "password reset": {
+    "en": "Password reset",
+    "nl": "Wachtwoord resetten"
+  },
+  "enter your email to get a password reset link.": {
+    "en": "Enter your email to get a password reset link.",
+    "nl": "Voer uw e-mailadres in om een link te ontvangen voor het instellen van uw wachtwoord."
+  },
+  "remember your password?": {
+    "en": "Remember your password?",
+    "nl": "Weet u uw wachtwoord weer?"
+  },
+  "log in": {
+    "en": "Log in",
+    "nl": "Log in"
+  },
+  "confirmation code": {
+    "en": "Confirmation code",
+    "nl": "Toegangscode"
+  },
+  "did you not receive the confirmation e-mail? check your spam folder, or": {
+    "en": "Did you not receive the confirmation e-mail? Check your spam folder or",
+    "nl": "Heeft u de bevestigingsmail niet ontvangen? Controleer uw spam of"
+  },
+  "request a password reset again": {
+    "en": "request a password reset again",
+    "nl": "vraag nogmaals een wachtwoord reset aan"
+  },
+  "location": {
+    "en": "Location",
+    "nl": "Locatie"
+  },
+  "new authorisation": {
+    "en": "New authorisation",
+    "nl": "Nieuwe machtiging"
+  },
+  "please enter a type": {
+    "en": "Please enter a type",
+    "nl": "Voer een type in"
+  },
+  "please enter a role": {
+    "en": "Please enter a role",
+    "nl": "Voer een rol in"
+  },
+  "please enter a start": {
+    "en": "Please enter a start date",
+    "nl": "Voer een startdatum in"
+  },
+  "please enter an end": {
+    "en": "Please enter an end date",
+    "nl": "Voer een eindedatum in"
+  },
+  "please enter a connection": {
+    "en": "Please enter a connection",
+    "nl": "Voer een aansluiting in"
+  },
+  "cancel": {
+    "en": "Cancel",
+    "nl": "Annuleren"
+  },
+  "search for a connection": {
+    "en": "Search for a connection",
+    "nl": "Zoek naar een aansluiting"
+  },
+  "connection": {
+    "en": "Connection",
+    "nl": "Aansluiting"
+  },
+  "type": {
+    "en": "Type",
+    "nl": "Type"
+  },
+  "role": {
+    "en": "Role",
+    "nl": "Rol"
+  },
+  "start": {
+    "en": "Start",
+    "nl": "Start"
+  },
+  "end": {
+    "en": "End",
+    "nl": "Einde"
+  },
+  "location details": {
+    "en": "Location details",
+    "nl": "Locatiegegevens"
+  },
+  "please enter a name": {
+    "en": "Please enter a name",
+    "nl": "Voer een naam in"
+  },
+  "building code": {
+    "en": "Object name",
+    "nl": "Objectnaam"
+  },
+  "please enter a building code": {
+    "en": "Please enter a object name",
+    "nl": "Voer een objectnaam in"
+  },
+  "department": {
+    "en": "Department",
+    "nl": "Afdeling"
+  },
+  "please enter a department": {
+    "en": "Please enter a department",
+    "nl": "Voer een afdeling in"
+  },
+  "please enter an energy label": {
+    "en": "Please enter an energy label",
+    "nl": "Voer een energielabel in"
+  },
+  "object number": {
+    "en": "Object number",
+    "nl": "Objectnummer"
+  },
+  "please enter an object number": {
+    "en": "Please enter an object number",
+    "nl": "Voer een objectnummer in"
+  },
+  "address": {
+    "en": "Address",
+    "nl": "Adres"
+  },
+  "street": {
+    "en": "Street",
+    "nl": "Straat"
+  },
+  "please enter a street": {
+    "en": "Please enter a street",
+    "nl": "Voer een straat in"
+  },
+  "house number": {
+    "en": "House number",
+    "nl": "Huisnummer"
+  },
+  "please enter a house number": {
+    "en": "Please enter a house number",
+    "nl": "Voer een huisnummer in"
+  },
+  "addition": {
+    "en": "Addition",
+    "nl": "Toevoeging"
+  },
+  "please enter a addition": {
+    "en": "Please enter a addition",
+    "nl": "Voer een toevoeging in"
+  },
+  "zipcode": {
+    "en": "Zipcode",
+    "nl": "Postcode"
+  },
+  "please enter a zipcode": {
+    "en": "Please enter a zipcode",
+    "nl": "Voer een postcode in"
+  },
+  "city": {
+    "en": "City",
+    "nl": "Plaatsnaam"
+  },
+  "please enter a city": {
+    "en": "Please enter a city",
+    "nl": "Voer een plaatsnaam in"
+  },
+  "country": {
+    "en": "Country",
+    "nl": "Land"
+  },
+  "please enter a country": {
+    "en": "Please enter a country",
+    "nl": "Voer een land in"
+  },
+  "su": {
+    "en": "Su",
+    "nl": "Zo"
+  },
+  "sa": {
+    "en": "Sa",
+    "nl": "Za"
+  },
+  "fr": {
+    "en": "Fr",
+    "nl": "Vr"
+  },
+  "th": {
+    "en": "Th",
+    "nl": "Do"
+  },
+  "we": {
+    "en": "We",
+    "nl": "Wo"
+  },
+  "tu": {
+    "en": "Tu",
+    "nl": "Di"
+  },
+  "mo": {
+    "en": "Mo",
+    "nl": "Ma"
+  },
+  "save": {
+    "en": "Save",
+    "nl": "Opslaan"
+  },
+  "close": {
+    "en": "Close",
+    "nl": "Sluiten"
+  },
+  "january": {
+    "en": "January",
+    "nl": "Januari"
+  },
+  "february": {
+    "en": "February",
+    "nl": "Februari"
+  },
+  "march": {
+    "en": "March",
+    "nl": "Maart"
+  },
+  "april": {
+    "en": "April",
+    "nl": "April"
+  },
+  "may": {
+    "en": "May",
+    "nl": "Mei"
+  },
+  "june": {
+    "en": "June",
+    "nl": "Juni"
+  },
+  "july": {
+    "en": "July",
+    "nl": "Juli"
+  },
+  "august": {
+    "en": "August",
+    "nl": "Augustus"
+  },
+  "september": {
+    "en": "September",
+    "nl": "September"
+  },
+  "october": {
+    "en": "October",
+    "nl": "Oktober"
+  },
+  "november": {
+    "en": "November",
+    "nl": "November"
+  },
+  "december": {
+    "en": "December",
+    "nl": "December"
+  },
+  "if you switch away from the editing screen, you will lose all the changes you have made.": {
+    "en": "If you switch away from the editing screen, you will lose all the changes you have made.",
+    "nl": "Als u dit scherm verlaat, gaan alle wijzigingen die u heeft aangebracht verloren."
+  },
+  "continue editing": {
+    "en": "Continue editing",
+    "nl": "Doorgaan met bewerken"
+  },
+  "close without saving": {
+    "en": "Close without saving",
+    "nl": "Sluiten zonder opslaan"
+  },
+  "very uneconomical": {
+    "en": "Very uneconomical",
+    "nl": "Zeer onzuinig"
+  },
+  "uneconomical": {
+    "en": "Uneconomical",
+    "nl": "Onzuinig"
+  },
+  "average": {
+    "en": "Average",
+    "nl": "Gemiddeld"
+  },
+  "economical": {
+    "en": "Economical",
+    "nl": "Zuinig"
+  },
+  "very economical": {
+    "en": "Very economical",
+    "nl": "Zeer zuinig"
+  },
+  "paris proof": {
+    "en": "Paris Proof",
+    "nl": "Paris Proof"
+  },
+  "weng": {
+    "en": "WENG",
+    "nl": "WENG"
+  },
+  "period": {
+    "en": "Period",
+    "nl": "Periode"
+  },
+  "current period": {
+    "en": "Current period",
+    "nl": "Huidige periode"
+  },
+  "year": {
+    "en": "Year",
+    "nl": "Jaar"
+  },
+  "month": {
+    "en": "Month",
+    "nl": "Maand"
+  },
+  "day": {
+    "en": "Day",
+    "nl": "Dag"
+  },
+  "hour": {
+    "en": "Hour",
+    "nl": "Uur"
+  },
+  "minute": {
+    "en": "Quarter-hour",
+    "nl": "Kwartier"
+  },
+  "contracted power": {
+    "en": "Contracted power",
+    "nl": "Gecontracteerd vermogen"
+  },
+  "electricity power": {
+    "en": "Peak power",
+    "nl": "Piekvermogen"
+  },
+  "show per m²": {
+    "en": "Show per m²",
+    "nl": "Toon per m²"
+  },
+  "per m²": {
+    "en": "per m²",
+    "nl": "per m²"
+  },
+  "delete": {
+    "en": "Delete",
+    "nl": "Verwijderen"
+  },
+  "delete dashboard": {
+    "en": "Delete dashboard?",
+    "nl": "Dashboard verwijderen?"
+  },
+  "are you sure you want to delete this dashboard?": {
+    "en": "Are you sure you want to delete this dashboard?",
+    "nl": "Weet u zeker dat u dit dashboard wil verwijderen?"
+  },
+  "save report": {
+    "en": "Schedule report",
+    "nl": "Rapport inplannen"
+  },
+  "delete report?": {
+    "en": "Delete report?",
+    "nl": "Rapport verwijderen?"
+  },
+  "are you sure you want to delete this report? This will cancel any further emails.": {
+    "en": "Are you sure you want to delete this report? This will also cancel any scheduled reports.",
+    "nl": "Weet u zeker dat u dit rapport wil verwijderen? Hiermee worden tevens geplande rapportages geannuleerd."
+  },
+  "sources": {
+    "en": "Selection",
+    "nl": "Selectie"
+  },
+  "duration": {
+    "en": "Period",
+    "nl": "Periode"
+  },
+  "annual comparison per month": {
+    "en": "Annual comparison per month",
+    "nl": "Jaarvergelijking per maand"
+  },
+  "monthly comparison per day": {
+    "en": "Monthly comparison per day",
+    "nl": "Maandvergelijking per dag"
+  },
+  "weekly comparison per day": {
+    "en": "Weekly comparison per day",
+    "nl": "Weekvergelijking per dag"
+  },
+  "daily comparison per hour": {
+    "en": "Daily comparison per hour",
+    "nl": "Dagvergelijking per uur"
+  },
+  "user": {
+    "en": "User",
+    "nl": "Gebruiker"
+  },
+  "executed on": {
+    "en": "Report date",
+    "nl": "Rapportdatum"
+  },
+  "time range": {
+    "en": "Period",
+    "nl": "Periode"
+  },
+  "frequency": {
+    "en": "Frequency",
+    "nl": "Frequentie"
+  },
+  "never": {
+    "en": "Not repeated",
+    "nl": "Niet herhaald"
+  },
+  "yearly": {
+    "en": "Each year",
+    "nl": "Elk jaar"
+  },
+  "monthly": {
+    "en": "Each month",
+    "nl": "Elke maand"
+  },
+  "weekly": {
+    "en": "Each week",
+    "nl": "Elke week"
+  },
+  "daily": {
+    "en": "Each day",
+    "nl": "Elke dag"
+  },
+  "yearly scheduled": {
+    "en": "Scheduled yearly",
+    "nl": "Jaarlijks gepland"
+  },
+  "monthly scheduled": {
+    "en": "Scheduled monthly",
+    "nl": "Maandelijks gepland"
+  },
+  "weekly scheduled": {
+    "en": "Scheduled weekly",
+    "nl": "Wekelijks gepland"
+  },
+  "daily scheduled": {
+    "en": "Scheduled daily",
+    "nl": "Dagelijks gepland"
+  },
+  "co² emissions": {
+    "en": "CO² emissions",
+    "nl": "CO²-uitstoot"
+  },
+  "co² emission": {
+    "en": "CO² emission",
+    "nl": "CO²-uitstoot"
+  },
+  "primary": {
+    "en": "Primary meter",
+    "nl": "Primaire meter"
+  },
+  "intermediate": {
+    "en": "Sub-meter",
+    "nl": "Tussenmeter"
+  },
+  "sub meter information": {
+    "en": "Sub-meter details",
+    "nl": "Tussenmeter gegevens"
+  },
+  "meter type": {
+    "en": "Meter type",
+    "nl": "Metertype"
+  },
+  "covered area": {
+    "en": "Covered area",
+    "nl": "Overdekt gebied"
+  },
+  "no electricity consumption data available for this location": {
+    "en": "No electricity consumption data available for this location",
+    "nl": "Geen electriciteitsverbruik data beschikbaar op deze locatie"
+  },
+  "contracted capacity": {
+    "en": "Contracted power",
+    "nl": "Gecontracteerd vermogen"
+  },
+  "connection value": {
+    "en": "Connection value",
+    "nl": "Aansluitwaarde"
+  },
+  "contracted capacity can be changed by selecting the correct connection value": {
+    "en": "Contracted capacity can be changed by selecting the correct connection value",
+    "nl": "Gecontracteerd vermogen kan aangepast worden door de juiste aansluitwaarde te selecteren"
+  },
+  "show uncorrected gas consumption": {
+    "en": "Show uncorrected gas consumption",
+    "nl": "Toon ongecorrigeerd gasverbruik"
+  },
+  "show by m²": {
+    "en": "Show by m²",
+    "nl": "Toon per m²"
+  },
+  "this building has no known energy label": {
+    "en": "This building has no known energy label",
+    "nl": "Van dit gebouw is het energie label niet bekend"
+  },
+  "geo location": {
+    "en": "Geo location",
+    "nl": "Geolocatie"
+  },
+  "latitude": {
+    "en": "Latitude",
+    "nl": "Breedtegraad"
+  },
+  "longitude": {
+    "en": "Longitude",
+    "nl": "Lengtegraad"
+  },
+  "please enter an area": {
+    "en": "Please enter an area",
+    "nl": "Voer een gebied in"
+  },
+  "please enter a latitude": {
+    "en": "Please enter a latitude",
+    "nl": "Voer een breedtegraad in"
+  },
+  "please enter a longitude": {
+    "en": "Please enter a longitude",
+    "nl": "Voer een lengtegraad in"
+  },
+  "shop without goods refrigeration": {
+    "en": "Shop without goods refrigeration",
+    "nl": "Winkel zonder warenkoeling"
+  },
+  "hospital": {
+    "en": "Hospital",
+    "nl": "Ziekenhuis"
+  },
+  "other": {
+    "en": "Other",
+    "nl": "Overig"
+  },
+  "holiday park": {
+    "en": "Holiday park",
+    "nl": "Vakantiepark"
+  },
+  "daycare without overnight stay": {
+    "en": "Daycare without overnight stay",
+    "nl": "Opvang zonder overnachting"
+  },
+  "office": {
+    "en": "Office",
+    "nl": "Kantoor"
+  },
+  "university/higher vocational training/intermediate vocational training": {
+    "en": "University/Higher vocational training/Intermediate vocational training",
+    "nl": "Universiteit/HBO/MBO"
+  },
+  "car garage/showroom": {
+    "en": "Car garage/showroom",
+    "nl": "Garage/showroom"
+  },
+  "shop with goods refrigeration": {
+    "en": "Shop with goods refrigeration",
+    "nl": "Winkel met warenkoeling"
+  },
+  "café": {
+    "en": "Café",
+    "nl": "Café"
+  },
+  "childcare": {
+    "en": "Childcare",
+    "nl": "Kinderopvang"
+  },
+  "care home with overnight stay": {
+    "en": "Care home with overnight stay",
+    "nl": "Tehuis met overnachting"
+  },
+  "swimming pool": {
+    "en": "Swimming pool",
+    "nl": "Zwembad"
+  },
+  "sauna": {
+    "en": "Sauna",
+    "nl": "Sauna"
+  },
+  "cold store": {
+    "en": "Cold store",
+    "nl": "Koel/vrieshuis"
+  },
+  "production hall": {
+    "en": "Production hall",
+    "nl": "Bedrijfshal"
+  },
+  "cell building": {
+    "en": "Cell building",
+    "nl": "Cellengebouw"
+  },
+  "medical (group) practice": {
+    "en": "Medical (group) practice",
+    "nl": "Medische (groeps) praktijk"
+  },
+  "outdoor sports facilities": {
+    "en": "Outdoor sports facilities",
+    "nl": "Sportaccommodatie buiten"
+  },
+  "indoor sports accommodation": {
+    "en": "Indoor sports accommodation",
+    "nl": "Sportaccommodatie binnen"
+  },
+  "primary / secondary education": {
+    "en": "Primary / Secondary education",
+    "nl": "Basis/ Voorgezet onderwijs"
+  },
+  "restaurant": {
+    "en": "Restaurant",
+    "nl": "Restaurant"
+  },
+  "hotel": {
+    "en": "Hotel",
+    "nl": "Hotel"
+  },
+  "apartment building": {
+    "en": "Apartment building",
+    "nl": "Appartementengebouw"
+  },
+  "single house – apartment": {
+    "en": "Single house – apartment",
+    "nl": "Enkele woning – appartement"
+  },
+  "single house – ground-level": {
+    "en": "Single house – ground-level",
+    "nl": "Enkele woning – grondgebonden"
+  },
+  "are you sure you want to revoke the authorisation for": {
+    "en": "Are you sure you want to revoke the authorisation for",
+    "nl": "Weet u zeker dat u de machtiging wilt intrekken voor"
+  },
+  "revoke authorisation": {
+    "en": "Revoke authorisation",
+    "nl": "Machtiging intrekken"
+  },
+  "operation has completed successfully": {
+    "en": "Operation has completed successfully",
+    "nl": "Actie is geslaagd"
+  },
+  "confirm user account": {
+    "en": "Confirm user account",
+    "nl": "Account bevestigen"
+  },
+  "please check your inbox at the e-mail address you provided to confirm your account.": {
+    "en": "Please check your inbox at the e-mail address you provided to confirm your account.",
+    "nl": "Controleer uw inbox op het door u opgegeven e-mailadres om uw account te bevestigen."
+  },
+  "resend the confirmation e-mail": {
+    "en": "resend the confirmation e-mail",
+    "nl": "zend de bevestigingsmail nogmaals"
+  },
+  "or": {
+    "en": "or",
+    "nl": "of"
+  },
+  "go back to login page": {
+    "en": "go back to login page",
+    "nl": "ga terug naar inlogpagina"
+  },
+  "please check your inbox at the e-mail address you provided to reset your password.": {
+    "en": "Please check your inbox at the e-mail address you provided to reset your password.",
+    "nl": "Controleer uw inbox op het door u opgegeven e-mailadres om uw wachtwoord te wijzigen."
+  },
+  "did you not receive an e-mail with a password reset link? check your spam folder, or": {
+    "en": "Did you not receive the password reset e-mail? Check your spam folder or",
+    "nl": "Heeft u de reset e-mail niet ontvangen? Controleer uw spam of"
+  },
+  "deselect all": {
+    "en": "Deselect all",
+    "nl": "Deselecteer alle regels"
+  },
+  "select all": {
+    "en": "Select all",
+    "nl": "Selecteer alle regels"
+  },
+  "selected": {
+    "en": "selected",
+    "nl": "geselecteerd"
+  },
+  "select interval": {
+    "en": "Select interval",
+    "nl": "Selecteer interval"
+  },
+  "please select at least 1 record": {
+    "en": "Please select at least 1 record",
+    "nl": "Selecteer ten minste 1 regel"
+  },
+  "measurement data": {
+    "en": "Measurement data",
+    "nl": "Meetdata"
+  },
+  "send frequency": {
+    "en": "Send frequency",
+    "nl": "Ontvangstfrequentie"
+  },
+  "no area defined, consumption per m² is unavailable": {
+    "en": "No area defined, consumption per m² is unavailable",
+    "nl": "Geen oppervlakte opgegeven, verbruik per m² is niet beschikbaar"
+  },
+  "select one of the predefined period options": {
+    "en": "Select one of the predefined 'Period' options",
+    "nl": "Selecteer één van de vooraf gedefinieerde 'Periode' opties"
+  },
+  "other range": {
+    "en": "Other range",
+    "nl": "Andere periode"
+  },
+  "create user": {
+    "en": "Create user",
+    "nl": "Gebruiker aanmaken"
+  },
+  "add user": {
+    "en": "Add user",
+    "nl": "Gebruiker toevoegen"
+  },
+  "new user": {
+    "en": "New user",
+    "nl": "Nieuwe gebruiker"
+  },
+  "users": {
+    "en": "Users",
+    "nl": "Gebruikers"
+  },
+  "send welcome email": {
+    "en": "Send welcome email",
+    "nl": "Welkomstmail versturen"
+  },
+  "stop impersonating": {
+    "en": "Stop impersonating",
+    "nl": "Stop met imiteren gebruiker"
+  },
+  "impersonate user": {
+    "en": "Impersonate user",
+    "nl": "Gebruiker imiteren"
+  },
+  "no gross production meter available": {
+    "en": "No gross production meter available",
+    "nl": "Geen bruto productie meter aanwezig"
+  },
+  "recipients": {
+    "en": "Recipients",
+    "nl": "Ontvangers"
+  },
+  "receive monthly report": {
+    "en": "Receive monthly report",
+    "nl": "Maandelijks rapport ontvangen"
+  },
+  "no data to show": {
+    "en": "No data to show",
+    "nl": "Er zijn geen gegevens om te tonen"
+  },
+  "estimated": {
+    "en": "Estimated",
+    "nl": "Geschat"
+  },
+  "removed connection or location": {
+    "en": "Removed connection or location",
+    "nl": "Aansluiting of locatie verwijderd"
+  },
+  "connection monthly data template": {
+    "en": "Connection monthly data template",
+    "nl": "Data upload sjabloon (maandelijks)"
+  },
+  "raw connection data template": {
+    "en": "Raw connection data template",
+    "nl": "Data upload sjabloon (ruwe data)"
+  },
+  "monthly connection data": {
+    "en": "Monthly connection data",
+    "nl": "Connectie data (maandelijks)"
+  },
+  "raw connection data": {
+    "en": "Raw connection data",
+    "nl": "Connectie data (ruwe data)"
+  },
+  "no sub-meters found for this measurement type": {
+    "en": "No sub-meters found for this measurement type",
+    "nl": "Er zijn geen tussenmeters voor dit verbruikstype"
+  },
+  "monthly measurement data": {
+    "en": "Monthly measurement data",
+    "nl": "Maand verbruiken"
+  },
+  "completeness": {
+    "en": "Completeness",
+    "nl": "Data compleetheid"
+  },
+  "total completeness for": {
+    "en": "Total completeness for",
+    "nl": "Totale data compleetheid voor"
+  },
+  "merge locations": {
+    "en": "Merge locations",
+    "nl": "Locaties samenvoegen"
+  },
+  "you are about to merge location": {
+    "en": "You are about to merge location",
+    "nl": "Je staat op het punt om de locatie"
+  },
+  "into": {
+    "en": "into",
+    "nl": "samen te voegen met"
+  },
+  "are you sure you want to move all connections to": {
+    "en": "Are you sure you want to move all connections to",
+    "nl": "Weet je zeker dat je alle connecties wilt overzetten naar"
+  },
+  "this cannot be undone!": {
+    "en": "This cannot be undone!",
+    "nl": "Deze wijziging is permanent en kan niet ongedaan gemaakt worden!"
+  },
+  "search for an organisation": {
+    "en": "Search for an organisation",
+    "nl": "Zoek naar een organisatie"
+  },
+  "add new authorisation": {
+    "en": "Add new authorisation",
+    "nl": "Voeg een machtiging toe"
+  },
+  "add new solaredge meter": {
+    "en": "Add new SolarEdge meter",
+    "nl": "Nieuwe SolarEdge meter toevoegen"
+  },
+  "access point id": {
+    "en": "Access point id",
+    "nl": "Meter ophaalnummer"
+  },
+  "add solar edge meter": {
+    "en": "Add SolarEdge meter",
+    "nl": "Voeg een SolarEdge meter toe"
+  },
+  "site id": {
+    "en": "Meter id",
+    "nl": "Meternummer"
+  },
+  "kiosk url": {
+    "en": "SolarEdge link",
+    "nl": "SolarEdge link"
+  },
+  "api key": {
+    "en": "API key",
+    "nl": "API sleutel"
+  },
+  "remove meter": {
+    "en": "Remove meter",
+    "nl": "Meter verwijderen"
+  },
+  "are you sure you want to remove this meter?": {
+    "en": "Are you sure you want to remove this meter?",
+    "nl": "Weet je zeker dat je deze meter wilt verwijderen?"
+  },
+  "meter authorisation periods": {
+    "en": "Meter authorisation periods",
+    "nl": "Meter machtigingperiodes"
+  },
+  "alerts": {
+    "en": "Alerts",
+    "nl": "Meldingen"
+  },
+  "add alert": {
+    "en": "Add alert",
+    "nl": "Melding toevoegen"
+  },
+  "resolve alert": {
+    "en": "Resolve alert",
+    "nl": "Markeer opgelost"
+  },
+  "resolve alerts": {
+    "en": "Resolve alerts",
+    "nl": "Markeer opgelost"
+  },
+  "disconnected": {
+    "en": "Disconnected",
+    "nl": "Niet verbonden"
+  },
+  "missingdata": {
+    "en": "Missing data",
+    "nl": "Ontbrekende gegevens"
+  },
+  "contractedpowerexceeded": {
+    "en": "Contracted power exceeded",
+    "nl": "Gecontracteerd vermogen overschreden"
+  },
+  "peak": {
+    "en": "Peak consumption",
+    "nl": "Piek verbruik"
+  },
+  "are you sure you want to resolve this alert?": {
+    "en": "Are you sure you want to resolve this alert?",
+    "nl": "Weet je zeker dat je deze melding als opgelost wilt markeren?"
+  },
+  "mute alert": {
+    "en": "Mute alert",
+    "nl": "Melding dempen"
+  },
+  "mute alerts": {
+    "en": "Mute alerts",
+    "nl": "Meldingen dempen"
+  },
+  "are you sure you want to mute this alert?": {
+    "en": "Are you sure you want to mute this alert?",
+    "nl": "Weet je zeker dat je deze melding wilt dempen?"
+  },
+  "alert was added": {
+    "en": "Alert was added",
+    "nl": "Melding toegevoegd"
+  },
+  "alert not found": {
+    "en": "Alert not found",
+    "nl": "Melding niet gevonden"
+  },
+  "mute deadline": {
+    "en": "Mute deadline",
+    "nl": "Dempen tot en met"
+  },
+  "unmute alert": {
+    "en": "Unmute alert",
+    "nl": "Dempen opheffen"
+  },
+  "unmute alerts": {
+    "en": "Unmute alerts",
+    "nl": "Dempen opheffen"
+  },
+  "alert status": {
+    "en": "Alert status",
+    "nl": "Melding status"
+  },
+  "alert type": {
+    "en": "Alert type",
+    "nl": "Meldingstype"
+  },
+  "open": {
+    "en": "Open",
+    "nl": "Open"
+  },
+  "resolved": {
+    "en": "Resolved",
+    "nl": "Opgelost"
+  },
+  "muted": {
+    "en": "Muted",
+    "nl": "Gedempt"
+  },
+  "message": {
+    "en": "Message",
+    "nl": "Bericht"
+  },
+  "connection type": {
+    "en": "Connection type",
+    "nl": "Connectie type"
+  },
+  "bulk edit": {
+    "en": "Bulk edit",
+    "nl": "Bulk aanpassen"
+  },
+  "alerts selected": {
+    "en": "Alerts selected",
+    "nl": "Meldingen geselecteerd"
+  },
+  "you are about to mute": {
+    "en": "You are about to mute",
+    "nl": "Je staat op het punt om"
+  },
+  "bulk mute alerts": {
+    "en": "alerts",
+    "nl": "meldingen te dempen"
+  },
+  "you are about to resolve": {
+    "en": "You are about to resolve",
+    "nl": "Je staat op het punt om"
+  },
+  "bulk resolve alerts": {
+    "en": "alerts",
+    "nl": "meldingen als opgelost te markeren"
+  },
+  "you are about to unmute": {
+    "en": "You are about to unmute",
+    "nl": "Je staat op het punt om"
+  },
+  "bulk unmute alerts": {
+    "en": "alerts",
+    "nl": "meldingen weer actief te maken"
+  },
+  "are you sure you want to execute this action?": {
+    "en": "Are you sure you want to execute this action?",
+    "nl": "Weet je zeker dat je deze actie wilt uitvoeren?"
+  },
+  "no connection found, connection might be removed": {
+    "en": "No connection found, connection might be removed",
+    "nl": "Geen aansluiting gevonden, waarschijnlijk is de aansluiting verwijderd"
+  },
+  "you are about to bulk update the following connections": {
+    "en": "You are about to bulk update the following connections",
+    "nl": "Je staat op het punt om de volgende aansluitingen in bulk te updaten"
+  },
+  "bulk update connections": {
+    "en": "Bulk update connections",
+    "nl": "Aansluitingen in bulk updaten"
+  },
+  "update connections": {
+    "en": "Update connections",
+    "nl": "Aansluitingen updaten"
+  },
+  "locations list": {
+    "en": "Locations list",
+    "nl": "Locatielijst"
+  },
+  "bulk update locations": {
+    "en": "Bulk update locations",
+    "nl": "Locaties in bulk updaten"
+  },
+  "update locations": {
+    "en": "Update locations",
+    "nl": "Locaties updaten"
+  },
+  "you are about to bulk update the following locations": {
+    "en": "You are about to bulk update the following locations",
+    "nl": "Je staat op het punt om de volgende locaties in bulk te updaten"
+  },
+  "no changes have been found between uploaded file and current data": {
+    "en": "No changes have been found between uploaded file and current data",
+    "nl": "Er zijn geen verschillen gevonden tussen het geüploade bestand en de data op de server"
+  },
+  "toggle all days": {
+    "en": "Show all days",
+    "nl": "Toon alle dagen"
+  },
+  "days of week": {
+    "en": "Typical day values",
+    "nl": "Typische dagwaarden"
+  },
+  "monday": {
+    "en": "Monday",
+    "nl": "Maandag"
+  },
+  "tuesday": {
+    "en": "Tuesday",
+    "nl": "Dinsdag"
+  },
+  "wednesday": {
+    "en": "Wednesday",
+    "nl": "Woensdag"
+  },
+  "thursday": {
+    "en": "Thursday",
+    "nl": "Donderdag"
+  },
+  "friday": {
+    "en": "Friday",
+    "nl": "Vrijdag"
+  },
+  "saturday": {
+    "en": "Saturday",
+    "nl": "Zaterdag"
+  },
+  "sunday": {
+    "en": "Sunday",
+    "nl": "Zondag"
+  },
+  "alert channels": {
+    "en": "Alert channels",
+    "nl": "Alert kanalen"
+  },
+  "create slack alert channel": {
+    "en": "Create slack alert channel",
+    "nl": "Slack alert koppeling toevoegen"
+  },
+  "standing charge": {
+    "en": "Standing charge",
+    "nl": "Vaste leveringskosten"
+  },
+  "errors": {
+    "en": "Errors",
+    "nl": "Fouten"
+  },
+  "rate": {
+    "en": "Rate",
+    "nl": "Kosten"
+  },
+  "off peak rate": {
+    "en": "Off Peak Rate",
+    "nl": "Kosten daluren"
+  },
+  "feed-in rate": {
+    "en": "Feed-In Rate",
+    "nl": "Kosten teruglevering"
+  },
+  "feed-in off peak rate": {
+    "en": "Off-peak rate feed-in",
+    "nl": "Kosten daluren teruglevering"
+  },
+  "add period": {
+    "en": "Add period",
+    "nl": "Periode toevoegen"
+  },
+  "edit contract period": {
+    "en": "Edit contract period",
+    "nl": "Contractperiode bewerken"
+  },
+  "remove period": {
+    "en": "Remove period",
+    "nl": "Contractperiode verwijderen"
+  },
+  "are you sure you want to remove this contract period?": {
+    "en": "Are you sure you want to delete this contract period?",
+    "nl": "Weet u zeker dat u dit contractperiode wilt verwijderen?"
+  },
+  "add contract period": {
+    "en": "Add contract period",
+    "nl": "Contractperiode toevoegen"
+  },
+  "add contract": {
+    "en": "Add contract",
+    "nl": "Contract toevoegen"
+  },
+  "remove contract": {
+    "en": "Remove contract",
+    "nl": "Contract verwijderen"
+  },
+  "default contract": {
+    "en": "Default contract",
+    "nl": "Modelcontract"
+  },
+  "default contracts are used to ensure that average consumption costs can still be calculated even when no specific contracts are applicable to certain organisations or connections.": {
+    "en": "Default contracts are used to ensure that average consumption costs can still be calculated even when no specific contracts are applicable to certain organisations or connections.",
+    "nl": "Modelcontracten worden gebruikt om ervoor te zorgen dat de gemiddelde verbruikskosten berekend kunnen worden, zelfs wanneer er geen specifieke contracten van toepassing zijn op bepaalde organisaties of verbindingen."
+  },
+  "are you sure you want to remove this contract?": {
+    "en": "Are you sure you want to delete this contract?",
+    "nl": "Weet u zeker dat u dit contract wilt verwijderen?"
+  },
+  "start date": {
+    "en": "Start date",
+    "nl": "Startdatum"
+  },
+  "end date": {
+    "en": "End date",
+    "nl": "Eindedatum"
+  },
+  "contract periods": {
+    "en": "Contract periods",
+    "nl": "Contractperiodes"
+  },
+  "links": {
+    "en": "Linked Entities",
+    "nl": "Gekoppelde Entiteiten"
+  },
+  "link to organisation": {
+    "en": "Link to organisation",
+    "nl": "Koppel aan organisatie"
+  },
+  "link to connection": {
+    "en": "Link to connection",
+    "nl": "Koppel aan aansluiting"
+  },
+  "link contract": {
+    "en": "Link contract",
+    "nl": "Koppel contract"
+  },
+  "delete contract period": {
+    "en": "Delete contract period",
+    "nl": "Contractperiode verwijderen"
+  },
+  "you are about to delete": {
+    "en": "You are about to delete",
+    "nl": "Je staat op het punt om"
+  },
+  "this contract period.": {
+    "en": "this contract period",
+    "nl": "deze contractperiode te verwijderen"
+  }
+
+}
